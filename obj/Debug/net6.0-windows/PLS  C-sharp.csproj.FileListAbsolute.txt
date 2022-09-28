@@ -1,0 +1,24 @@
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\PLS  C-sharp.exe
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\PLS  C-sharp.deps.json
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\PLS  C-sharp.runtimeconfig.json
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\PLS  C-sharp.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\PLS  C-sharp.pdb
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.csproj.AssemblyReference.cache
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.csproj.GenerateResource.cache
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.AssemblyInfoInputs.cache
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.AssemblyInfo.cs
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.csproj.CoreCompileInputs.cache
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\refint\PLS  C-sharp.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.pdb
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.genruntimeconfig.cache
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\ref\PLS  C-sharp.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS__C_sharp.MainForm.resources
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LERN\C#\PLS  C-sharp\PLS  C-sharp\obj\Debug\net6.0-windows\PLS  C-sharp.csproj.CopyComplete
